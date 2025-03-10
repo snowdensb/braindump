@@ -12,7 +12,7 @@
     "gulp": "frontend/sass/*.scss"
   },
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.0.0",
     "bootstrap-tabcollapse": "^0.2.6",
     "bootstrap-tagsinput": "^0.7.1",
     "font-awesome": "4.7.0",
