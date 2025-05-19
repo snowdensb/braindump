@@ -15,7 +15,7 @@ Flask-Cors==3.0.2
 # Testing
 coverage==4.2
 flake8==3.2.1
-selenium==3.0.2
+selenium==4.32.0
 unittest-xml-reporting==2.1.0
 ForgeryPy3==0.3.1
 
